@@ -200,7 +200,7 @@
 	text-align: center;
 }
 .brows_button_3 a,.brows_button_4 a{
-	border:2px solid #55C1E5;
+	border:2px solid #7aca7a;
 	font-size: 0.9em;
 	padding: 0.7em 1.5em;	
 	color: #5EC7E5;
@@ -216,7 +216,7 @@
 }
 .brows_button_3 a:hover,.brows_button_4 a:hover
 {
-	background: #55C1E5;
+	background: #7aca7a;
 	color:#fff;
 }
 /*****/
@@ -286,7 +286,7 @@
 	-moz-border-radius: 20px;
 	-o-border-radius: 20px;
 	border-radius: 20px;
-	background:#55C1E5;
+	background:#7aca7a;
 }
 
 .owl-theme .owl-controls .owl-page.active span,
