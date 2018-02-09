@@ -203,7 +203,8 @@
 	border:2px solid #7aca7a;
 	font-size: 0.9em;
 	padding: 0.7em 1.5em;	
-	color: #5EC7E5;
+	color: #FFFFFF;
+	background-color: #7aca7a;
 	border-radius: 5px;
 	-webkit-border-radius: 5px;
 	-o-border-radius: 5px;
@@ -216,7 +217,8 @@
 }
 .brows_button_3 a:hover,.brows_button_4 a:hover
 {
-	background: #7aca7a;
+	background: #418241;
+	border:2px solid #418241;
 	color:#fff;
 }
 /*****/
